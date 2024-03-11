@@ -1,4 +1,4 @@
-# Predicting Ride Hailing Platform Fares
+# Bank Marketing Term Deposit Campaign Prediction
 ## Introduction
 This project revolves around analyzing data from direct marketing campaigns conducted by a Portuguese banking institution, where phone calls were made to clients to gauge their interest in subscribing to a bank term deposit. The primary aim is to develop a predictive model using supervised learning algorithms like K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, XGB and Random Forests to forecast customer subscription tendencies accurately. With insights gleaned from this dataset, the model seeks to optimize the bank's marketing efforts by identifying potential subscribers more effectively. By leveraging targeted strategies, the bank can allocate resources efficiently, enhance campaign efficiency, and ultimately drive business growth.
 
@@ -35,3 +35,5 @@ The ensemble of machine learning algorithms, including Support Vector Machines (
 ## References
 
 Dataset     : <a href="https://archive.ics.uci.edu/dataset/222/bank+marketing">Bank Marketing</a>.  
+HuggingFace : <a href="https://huggingface.co/spaces/taliida-nabilah/Banks_Customer_Deposit_Subscription">Banks_Customer_Deposit_Subscription</a>. 
+
