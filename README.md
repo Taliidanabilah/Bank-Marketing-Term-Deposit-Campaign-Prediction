@@ -6,7 +6,7 @@ This project revolves around analyzing data from direct marketing campaigns cond
 
 This project offers several critical analysis and prediction features tailored to address the challenges of analyzing data from direct marketing campaigns conducted by a Portuguese banking institution:
 
-- **Customer Subscription Tendency Forecasting:** Through the utilization of supervised learning algorithms such as K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, XGBoost, and Random Forests, this feature aims to develop predictive models to forecast the likelihood of customers subscribing to the bank's term deposit product accurately.  
+- **Customer Subscription Tendency Forecasting:** Through the utilization of supervised learning algorithms such as K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, Gradient Boosting, and Random Forests, this feature aims to develop predictive models to forecast the likelihood of customers subscribing to the bank's term deposit product accurately.  
 - **Feature Selection and Engineering:** This feature focuses on identifying and refining pertinent features that significantly impact customer subscription tendencies. By enhancing model accuracy and interpretability, it enables the optimization of marketing efforts and resource allocation, driving business growth effectively.
 
 ## Methodology
